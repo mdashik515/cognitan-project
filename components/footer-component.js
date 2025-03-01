@@ -39,9 +39,9 @@ class FooterComponent extends HTMLElement {
               <div class="col-lg-2 col-md-3 footer-links">
                 <h4>Our Services</h4>
                 <ul>
+                <li><a href="#">Cyber Security Solutions</a></li>
                   <li><a href="#">Custom Software Development</a></li>
                   <li><a href="#">Web & Mobile Development</a></li>
-                  <li><a href="#">Cyber Security Solutions</a></li>
                   <li><a href="#">Graphic Design</a></li>
                   <li><a href="#">Digital Marketing</a></li>
                   <li><a href="#">IT Consulting & Support</a></li>
