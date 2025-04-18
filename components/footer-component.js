@@ -14,7 +14,7 @@ class FooterComponent extends HTMLElement {
                   <p># 11th Cross Rd, KR Layout</p>
                   <p>JP Nagar Phase 6, Bengaluru,</p>
                   <p>Karnataka 560078</p>
-                  <p class="mt-3"><strong>Phone:</strong> <span>+91 70100 52218</span></p>
+                  <p class="mt-3"><strong>Phone:</strong> <span>+91 8870845453</span></p>
                   <p><strong>Email:</strong> <span>info@cognitan.com</span></p>
                 </div>
                 <div class="social-links d-flex mt-4">
