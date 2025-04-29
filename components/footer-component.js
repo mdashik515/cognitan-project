@@ -7,7 +7,7 @@ class FooterComponent extends HTMLElement {
             <div class="row gy-4">
               <div class="col-lg-4 col-md-6 footer-about">
                 <a href="index.html" class="logo d-flex align-items-center">
-                  <span class="sitename">Cogitan Pvt. Ltd.</span>
+                  <span class="sitename">Cognitan Pvt. Ltd.</span>
                   <!-- <img src="assets/img/cognitan-logo.png" alt=""> -->
                 </a>
                 <div class="footer-contact pt-3">
@@ -39,12 +39,12 @@ class FooterComponent extends HTMLElement {
               <div class="col-lg-2 col-md-3 footer-links">
                 <h4>Our Services</h4>
                 <ul>
-                <li><a href="#">Cyber Security Solutions</a></li>
-                  <li><a href="#">Custom Software Development</a></li>
+                <li><a href="cyber-security-solutions.html">Cyber Security Solutions</a></li>
+                  <li><a href="custom-software-development.html">Custom Software Development</a></li>
                   <li><a href="#">Web & Mobile Development</a></li>
-                  <li><a href="#">Graphic Design</a></li>
-                  <li><a href="#">Digital Marketing</a></li>
-                  <li><a href="#">IT Consulting & Support</a></li>
+                  <li><a href="graphic-design-services.html">Graphic Design</a></li>
+                  <li><a href="digital-marketing-services.html">Digital Marketing</a></li>
+                  <li><a href="it-consulting-support.html">IT Consulting & Support</a></li>
                 </ul>
               </div>
   
